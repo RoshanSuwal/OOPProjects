@@ -1,0 +1,3 @@
+﻿  Server.cpp
+d:\visual studio project\projectcode\main\server\server.cpp(108): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Server.vcxproj -> D:\visual studio project\ProjectCode\main\Debug\Server.exe
