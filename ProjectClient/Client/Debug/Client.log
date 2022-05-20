@@ -1,0 +1,3 @@
+﻿  Client.cpp
+d:\visual studio project\client\client\client.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Client.vcxproj -> D:\visual studio project\Client\Debug\Client.exe
